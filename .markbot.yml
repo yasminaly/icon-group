@@ -1,0 +1,19 @@
+repo: "icon-group"
+canvasCourse: "467502"
+canvasAssignment: "4178302"
+
+naming: true
+commits: 2
+
+html:
+  - path: "index.html"
+    valid: true
+    bestPractices: true
+
+css:
+  - path: "css/main.css"
+    locked: true
+
+screenshots:
+  - path: "index.html"
+    sizes: [320, 400, 650, 980, 1400]
